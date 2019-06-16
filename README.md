@@ -1,5 +1,6 @@
 # vue-version-three-typescript
-
+一个简单的vue-cli3 todolist demo
+![image](https://github.com/VisonM/vue-typescript-demo/blob/master/gif/todo.gif)
 ## Project setup
 ```
 yarn install
